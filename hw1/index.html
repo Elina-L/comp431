@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8">
+	<meta name="author" content="Elina Liu">
+</head>
+
+<body>
+
+	<h1>Facebook Signup Form</h1>
+	<img src="https://pbs.twimg.com/profile_images/3513354941/24aaffa670e634a7da9a087bfa83abe6_200x200.png"/>
+	<form id="myForm" method="get" action="formProcessor.html">
+		<p>Account name<br>
+			<input type="text" name="accName" pattern="[a-zA-Z][a-zA-Z0-9]*" required>
+		</p>
+		<p>Display name (optional)<br>
+			<input type="text" name="disName">
+		</p>
+		<p>Email address<br>
+			<input type="email" name="email" placeholder="example@email.com"required>
+		</p>
+		<p>Phone Number<br>
+			<input type="text" name="phone" placeholder="123-456-7890"pattern="\d\d\d-\d\d\d-\d\d\d\d" required>
+		</p>
+		<p>Date of Birthday<br>
+			<input type="date" name="bday" id="bday" onchange="updateBday(), checkDOB()" max="" required>
+		</p>
+		<p id="demo"></p>
+		<p>Zipcode<br>
+			<input type="text" name="zipcode" placeholder="99999" pattern="\d\d\d\d\d" required>
+		</p>
+		<p>Password<br>
+			<input type="password" name="password" id="password" placeholder="Password" onkeyup="checkPassword()" required>
+		</p>
+		<p>Password confirmation<br>
+			<input type="password" name="confirm_pass" id="confirm_password" placeholder="Confirm Password" onkeyup="checkPassword()" required>
+			<p id="pw_check"></p>
+		</p>
+		<p>
+			<input type="hidden" name="timestamp" id="timestamp" value="">
+		</p>
+		<input type="submit" value="Submit" onclick="return checkForm(this)">
+		<input type="reset" value="Clear">
+	</form>
+</body>
+<script>
+
+var password = document.getElementById("password");
+var confirm_password = document.getElementById("confirm_password");
+var pw_check = document.getElementById("pw_check");
+var pw_valid = false;
+
+var timeStamp = new Date().getTime();
+var today = new Date();
+var nowYear = today.getFullYear();
+var nowYear_18 = nowYear - 18;
+today.setFullYear(nowYear - 18);
+var nowMonth = today.getMonth();
+var nowDay = today.getDate();
+var birth = document.getElementById("bday");
+
+window.onload = function () {
+	document.getElementById("password").onchange = checkPassword;
+	document.getElementById("confirm_password").onchange = checkPassword;
+	document.getElementById("timestamp").value = timeStamp;
+}
+
+function updateBday() {
+	nowMonth += 1;
+	if (nowMonth < 10) {
+		nowMonth = "0" + nowMonth;
+	} if (nowDay < 10) {
+		nowDay = "0" + nowDay;
+	}
+	var dateOK = nowYear_18 + "-" + nowMonth + "-" + nowDay;
+
+	document.getElementById("demo").innerHTML = birth.value;
+	document.getElementById("bday").max = dateOK;
+}
+
+
+function checkPassword() {
+	if (password.value != confirm_password.value) {
+		pw_check.textContent = "Passwords don't match.";
+	} else {
+		pw_check.textContent = "";
+		pw_valid = true;
+	}
+	console.log(birth);
+}
+
+function checkForm(form) {
+	if (password.value != confirm_password.value) {
+		alert("Error: Please check that you've entered and confirmed your password!");
+		pw_check.value = "Passwords don't match."
+		document.getElementById("password").style.borderColor = "#E34234";
+		document.getElementById("confirm_password").style.borderColor = "#E34234";
+		return false;
+	} else {
+		return true;
+	}
+}
+</script>
+</html>
