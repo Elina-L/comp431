@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <title>Hello HTML!</title>
+    <meta charset="utf-8">
+    <meta author="Elina Liu">
+</head>
+<body>
+
+<table border="1">
+	<tr><td>Athenian</td><td>Owl</td></tr>
+	<tr><td colspan="2"><img src="http://explore.rice.edu/uploadedImages/Explore/Welcome_to_Rice/riceacademicseal1.jpg"></td></tr>
+</table>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<ul>
+	<li><a href="http://www.rice.edu">Rice</a></li>
+	<li><a href="http://www.chron.com">Houston Chronicle</a></li>
+	<li><a href="http://www.twitter.com">Twitter</a></li>
+	<li><a href="http://www.twosigma.com">TwoSigma</a></li>
+</ul>
+
+<textarea id="text" rows="10" cols="50">
+
+
+ --- Enter your message here --- 
+
+
+</textarea><br/>
+<button id="clear">Clear</button><br />
+<span id="indicator">15</span><br />
+<button id="resume">Resume</button>
+<button id="pause">Pause</button>
+
+</body>
+</html>
+<script>
+var alertUser;
+var time = 15;
+var n;
+var counter;
+
+document.getElementById("clear").onclick = function () {
+	clear();
+}
+document.getElementById("resume").onclick = function () {
+	counter = setInterval(countDown, 1000);
+}
+
+document.getElementById("pause").onclick = function () {
+	clearInterval(counter);
+
+}
+
+function clear() {
+	document.getElementById("text").innerHTML = "";
+}
+
+function alert5() {
+	alert("The page will redirect when the counter reaches zero");
+}
+
+window.onload = function() {
+	alertFunc();
+}
+
+var countDown = function() {
+	console.log("here");
+	if (time > 0) {
+		time = time - 1;
+		document.getElementById("indicator").innerHTML = time;
+	} else {
+		clearInterval(counter);
+		window.location = "http://www.clear.rice.edu/comp431/sample/hello.html";
+	}
+}
+
+function alertFunc() {
+	alertUser = setTimeout(alert5, 5000);
+	if (time > 0) {
+		counter = setInterval(countDown, 1000);
+	}
+}
+
+</script>
