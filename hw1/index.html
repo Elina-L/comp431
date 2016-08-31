@@ -10,7 +10,7 @@
 	<h1>Facebook Signup Form</h1>
 	<img src="https://pbs.twimg.com/profile_images/3513354941/24aaffa670e634a7da9a087bfa83abe6_200x200.png"/>
 	<form id="myForm" method="get" action="formProcessor.html">
-		<p>Account name<br>
+		<p>Account name (only letters and numbers)<br>
 			<input type="text" name="accName" pattern="[a-zA-Z][a-zA-Z0-9]*" required>
 		</p>
 		<p>Display name (optional)<br>
@@ -23,7 +23,7 @@
 			<input type="text" name="phone" placeholder="123-456-7890"pattern="\d\d\d-\d\d\d-\d\d\d\d" required>
 		</p>
 		<p>Date of Birthday<br>
-			<input type="date" name="bday" id="bday" onchange="updateBday(), checkDOB()" max="" required>
+			<input type="date" name="bday" id="bday" onchange="updateBday()" max="" required>
 		</p>
 		<p id="demo"></p>
 		<p>Zipcode<br>
@@ -59,23 +59,42 @@ var nowMonth = today.getMonth();
 var nowDay = today.getDate();
 var birth = document.getElementById("bday");
 
+
+// nowMonth += 1;
+// if (nowMonth < 10) {
+// 	nowMonth = "0" + nowMonth;
+// } if (nowDay < 10) {
+// 	nowDay = "0" + nowDay;
+// }
+// var dateOK = nowYear_18 + "-" + nowMonth + "-" + nowDay;
+
 window.onload = function () {
 	document.getElementById("password").onchange = checkPassword;
 	document.getElementById("confirm_password").onchange = checkPassword;
 	document.getElementById("timestamp").value = timeStamp;
-}
-
-function updateBday() {
-	nowMonth += 1;
+	nowMonth = nowMonth + 1;
 	if (nowMonth < 10) {
 		nowMonth = "0" + nowMonth;
 	} if (nowDay < 10) {
 		nowDay = "0" + nowDay;
 	}
-	var dateOK = nowYear_18 + "-" + nowMonth + "-" + nowDay;
+	dateOK = nowYear_18 + "-" + nowMonth + "-" + nowDay;
 
-	document.getElementById("demo").innerHTML = birth.value;
+}
+
+function updateBday() {
+	var birthString = birth.value.toString();
+	var birthDate = new Date(birthString);
+
 	document.getElementById("bday").max = dateOK;
+	var okDate = new Date(dateOK);
+	if (okDate < birthDate) {
+		document.getElementById("demo").innerHTML = "You must be 18 or above to sign up.";
+
+	} else {
+		document.getElementById("demo").innerHTML = "";
+	}
+
 }
 
 
