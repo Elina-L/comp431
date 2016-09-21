@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8">
+	<meta name="author" content="Elina Liu">
+</head>
+<body>
+	<table>
+		<tr>
+			<th>
+				Key
+			</th>
+			<th>
+				Value
+			</th>
+		</tr>
+		<tr>
+			<td>Account Name</td>
+			<td id="accName2"></td>
+		</tr>
+		<tr>
+			<td>Display Name</td>
+			<td id="disName2"></td>
+		</tr>
+		<tr>
+			<td>Email</td>
+			<td id="email2"></td>
+		</tr>
+		<tr>
+			<td>Phone Number</td>
+			<td id="phone2"></td>
+		</tr>
+		<tr>
+			<td>Birthday</td>
+			<td id="bday2"></td>
+		</tr>
+		<tr>
+			<td>Zipcode</td>
+			<td id="zipcode2"></td>
+		</tr>
+		<tr>
+			<td>Password</td>
+			<td id="password2"></td>
+		</tr>
+
+		<tr>
+			<td>Timestamp</td>
+			<td id="timestamp2"></td>
+		</tr>
+	</table>
+</body>
+<script>
+
+var accName1 = getParameterByName('accName');
+var disName1 = getParameterByName('disName');
+var email1 = getParameterByName('email');
+var phone1 = getParameterByName('phone');
+var bday1 = getParameterByName('bday');
+var zipcode1 = getParameterByName('zipcode');
+var password1 = getParameterByName('password');
+var timestamp1 = Date(getParameterByName('timestamp'));
+
+window.onload = function() {
+	fillTable();
+}
+
+function getParameterByName(name, url) {
+	if (!url) url = window.location.href;
+	name = name.replace(/[\[\]]/g, "\\$&");
+	var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"), results = regex.exec(url);
+	if (!results) return null;
+	if (!results[2]) return '';
+	return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+
+function fillTable() {
+	document.getElementById("accName2").innerHTML = accName1;
+	document.getElementById("disName2").innerHTML = disName1;
+	document.getElementById("email2").innerHTML = email1;
+	document.getElementById("phone2").innerHTML = phone1;
+	document.getElementById("bday2").innerHTML = bday1;
+	document.getElementById("zipcode2").innerHTML = zipcode1;
+	document.getElementById("password2").innerHTML = password1;
+	document.getElementById("timestamp2").innerHTML = timestamp1;
+}
+</script>
+</html>

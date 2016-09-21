@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8" />
+	<title>Login to Rice Book</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="author" content="Elina Liu">
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script type="text/javascript" src="profile.js"></script>
+</head>
+<body>
+<div class="wrapper">
+	<div class="shareField">
+		<div class="row row2">
+		<h1>Rice Book!</h1>
+		<div class="align-right">
+		 	<a href="main.html" type="button" class="btn btn-default" id="submitBtn">Home</a>
+			<a href="index.html" type="button" class="btn btn-default" value="Logout" id="login">Logout</a>
+		</div>
+		</div>
+	</div>
+	<div class="picWrapper">
+		<img class="profilePic" src="https://upload.wikimedia.org/wikipedia/en/7/70/Shawn_Tok_Profile.jpg"/>
+		<input type="file" class="btn btn-default" value="Upload Image" id="upload-image">
+	</div>
+	<div class="container2">
+	<div class="profile2">
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="inputField">Display Name:
+				<span id="valueDis">Elina Liu</span>
+				</div>
+			</div>			
+			<div class="col-sm-6">
+				<input class="form-control" id="inputDis" name="Display Name" type="text">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="inputField">Email address: 
+					<span id="valueEmail">a@b.c</span>
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<input class="form-control" id="inputEmail" name="Email Address" type="text">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="inputField">Phone number: 
+					<span id="valuePhone">123-456-7890</span>
+				</div>
+			</div>					
+			<div class="col-sm-6">
+				<input class="form-control" id="inputPhone" name="Phone Number" type="text">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="inputField">Date of Birth: 
+					<span id="valueEmail">01/01/1985</span>
+				</div>
+			</div>
+		</div>		
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="inputField">Zipcode: 
+					<span id="valueZip">77005</span>
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<input class="form-control" id="inputZip" name="Zip Code" type="text">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="inputField">Password: 
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<input class="form-control" id="inputPass" name="Password" type="password">
+			</div>
+		</div>
+		<div class="row">	
+			<div class="col-sm-6">
+				<div class="inputField">Password confirmation: 
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<input class="form-control" id="inputConf" type="password">
+			</div>
+		</div>
+		<div>
+			<button type="button" class="btn btn-default" id="submitBtn" onclick="checkAll(this)">Update</button>
+			<span id="passconfirm"></span>
+		</div>
+	</div>
+	</div>
+</div>
+<div class="footer">
+	<span>Contact	 |	  </span>
+	<span>About    |    </span>
+	<span>FAQs        </span>
+</div>
+
+</body>
+</html>

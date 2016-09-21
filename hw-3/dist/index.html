@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8">
+	<title>Rice Book</title>
+	<meta name="author" content="Elina Liu">
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script type="text/javascript" src="index.js"></script>
+
+</head>
+
+<body>
+<div class="shareField">
+<div class="row row2">
+<h1>Rice Book!</h1>
+</div>
+<div id="share" style="display: none">
+	<input type="text" class="form-control" placeholder="share something" 
+	id="share">
+	<input class="btn btn-default" type="button" value="Post">
+</div>
+</div>
+	<div class="picWrapper">
+		<img class="profilePic" src="https://s.graphiq.com/sites/default/files/10/media/images/Rice_University_170690.png"/>
+	</div>
+	<div class="container2">
+	<div class="profile col-md-6">
+		<h3>Sign up for Rice Book</h3>
+	<form id="myForm" method="get" action="main.html">
+		<p>Account name (only letters and numbers)<br>
+			<input class="form-control" type="text" name="accName" 
+			pattern="[a-zA-Z][a-zA-Z0-9]*" required>
+		</p>
+		<p>Display name (optional)<br>
+			<input class="form-control" type="text" name="disName">
+		</p>
+		<p>Email address<br>
+			<input class="form-control" type="email" name="email" 
+			pattern="[^@]+@[^@]+[.][a-zA-Z]" placeholder="example@email.com" 
+			required>
+		</p>
+		<p>Phone Number<br>
+			<input class="form-control" type="text" name="phone" 
+			placeholder="123-456-7890"pattern="\d\d\d-\d\d\d-\d\d\d\d" required>
+		</p>
+		<p>Date of Birthday <span id="demo"></span><br>
+			<input class="form-control" type="date" name="bday" id="bday" 
+			onchange="updateBday()" max="" required>
+		</p>
+		<p>Zipcode<br>
+			<input class="form-control" type="text" name="zipcode" 
+			placeholder="99999" pattern="\d\d\d\d\d" required>
+		</p>
+		<p>Password	<span id="pw_check"></span><br>
+			<input class="form-control" type="password" name="password" 
+			id="password" placeholder="Password" onkeyup="checkPassword()" 
+			required>
+		</p>
+		<p>Password confirmation<br>
+			<input class="form-control" type="password" name="confirm_pass" 
+			id="confirm_password" placeholder="Confirm Password" 
+			onkeyup="checkPassword()" required>
+		</p>
+		<p>
+			<input type="hidden" name="timestamp" id="timestamp" value="">
+		</p>
+		<input type="submit" class="btn btn-default" value="Sign up" 
+		onclick="return checkForm(this)">
+		<input type="reset" class="btn btn-default" value="Clear">
+	</form>
+</div>
+<div class="profile col-md-6">
+	<h3>Already signed up?</h3>
+	<form method="get" action="main.html">	
+		<p>Email account<br>
+			<input class="form-control" type="email" name="accName" 
+			id="loginaccn" required>
+		</p>
+		<p>Password<br>
+			<input class="form-control" type="password"  id="loginpw" 
+			placeholder="Password" required>
+		</p>	
+		<p id="loginMsg"></p>
+		<input type="submit" class="btn btn-default" value="Login" id="login">
+	</form>
+
+</div>
+</div>
+<div class="footer">
+	<span>Contact	 |	  </span>
+	<span>About    |    </span>
+	<span>FAQs        </span>
+</div>
+</body>
+</html>
