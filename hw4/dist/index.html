@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Solitaire</title>
+	<meta name="author" content="Elina Liu">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script type="text/javascript" src="solitaire.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<div id="canvas" class="">
+		<div id="pile" class="pile">
+			<div class="stock" id="stock-wrapper"></div>
+			<div class="hand" id="hand-wrapper"></div>
+		</div>
+		<div class="foundations" id="foundations">
+			<div class="foundation card" id="foundation1-wrapper" ondrop="dropOver(event)" ondragover="allowDrop(event)">
+			</div>
+			<div class="foundation card" id="foundation2-wrapper" ondrop="dropOver(event)" ondragover="allowDrop(event)">
+			</div>
+			<div class="foundation card" id="foundation3-wrapper" ondrop="dropOver(event)" ondragover="allowDrop(event)">
+			</div>
+			<div class="foundation card" id="foundation4-wrapper" ondrop="dropOver(event)" ondragover="allowDrop(event)">
+			</div>
+		</div>
+		<div class="tableaus" id="tableaus">
+			<div class="tableau card" id="tableaus1-wrapper" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+			<div class="tableau card" id="tableaus2-wrapper" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+			<div class="tableau card" id="tableaus3-wrapper" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+			<div class="tableau card" id="tableaus4-wrapper" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+			<div class="tableau card" id="tableaus5-wrapper" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+			<div class="tableau card" id="tableaus6-wrapper" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+			<div class="tableau card" id="tableaus7-wrapper" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+		</div>
+		<span id="info">
+		<button type="button" class="btn btn-info btn-lg" onclick="newGame()">New Game</button>
+		<span id="btn2">
+		<button type="button" class="btn btn-info btn-sm" onclick="changeGame(0)">Alternate</button>
+		<button type="button" class="btn btn-info btn-sm" onclick="changeGame(1)">Same Color</button>
+		<button type="button" class="btn btn-info btn-sm" onclick="changeGame(2)">Hearts-Spades</button>
+		</span>
+		</span>
+		<span id="info2">
+			<span>Score: <div id="score">0</div></span>
+			<span>Time: <div id="time">0:00</div></span>
+			<span>Highest Score: <div id="hiScore">0</div></span>
+		</span>
+		<img id="infoBtn" src="playing-cards-assets-master/atlas-svg/Info-Button.png"/>
+		<div class="instructions">
+			<p>Click New Game button for a new game.</p>
+			<h4>Alternating Colors</h4>
+			<p>The cards can be arranged in descending order with alternating colors.</p>
+			<h4>Same Colors</h4>
+			<p>The cards can be arranged in descending order with same colors.</p>
+			<h4>Hearts to Spades</h4>
+			<p>The cards can be arranged in descending order, and hearts must be followed by spades.</p>
+		</div>	
+	<div id="winMsg">Congratulations! You Won!</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,166 @@
+img {
+	top: 0;
+	width: 111px;
+	height: 162px;
+	background-color: White;
+	position: absolute;
+	margin-left: -1px;
+	border-radius: 10px;
+	padding: 3px;
+}
+
+body {
+	background-color: #6b946d !important;
+}
+
+#canvas {
+	position: absolute;
+	margin: 0 auto;
+	width: 1030px;
+	/*height: 800px;*/
+	background-color: #6b946d;
+}
+
+.foundations {
+	width: 550px;
+	display: inline-block;
+	position: absolute;
+	left: 420px;
+	top: 80px;
+}
+
+.pile {
+	width: 650px;
+	position: absolute;
+	left: 50px;
+	top: 80px;
+	display: inline-block;
+}
+
+.tableaus {
+	width: 900px;
+	display: inline-block;
+	position: absolute;
+	left: 50px;
+	top: 320px;
+}
+
+div {
+	display: inline-block;
+}
+
+#canvas div div {
+	width: 111px;
+	height: 162px;
+	margin-left: 5px;
+	margin-right: 5px;
+	border-radius: 10px;
+	border: 1px dotted White;
+}
+
+#checkEmpty {
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+	border-width: 0 !important;
+	left: 0;
+	position: absolute;
+}
+
+#score, #time, #hiScore{
+	font-family: monaco, Consolas, "Lucida Console", monospace;
+	font-weight: 700;
+}
+
+#winMsg {
+	font-size: 3em;
+	width: 500px;
+	font-weight: 900;	
+	text-align: center;
+	background-color: #1aa1d4;
+	position: absolute;
+	top: 300px;
+	left: 220px;
+	display: none;
+	padding: 10px;
+	border: 10px solid White;
+	border-radius: 5px;
+	color: White;
+	font-family: monaco, Consolas, "Lucida Console", monospace;
+}
+
+#info {
+	position: absolute;
+	left: 50px;
+	top: 15px;
+	font-size: 1.5em;
+	width: 900px;
+	font-family: monaco, Consolas, "Lucida Console", monospace;
+}
+
+#btn2 {
+	position: absolute;
+	left: 455px;
+	top: 5px;
+}
+
+.btn-lg {
+	width: 140px;
+}
+
+.btn-sm {
+	margin-right: 10px;
+	width: 120px;
+}
+
+#info2 {
+	position: absolute;
+	left: 60px;
+	top: 265px;
+	font-size: 1.5em;
+	font-family: monaco, Consolas, "Lucida Console", monospace;
+}
+
+#info2 span {
+	margin-right: 50px;
+}
+
+#infoBtn {
+	width: 20px;
+	height: 20px;
+	background-color: transparent;
+	position: absolute;
+	left: 1000px;
+	top: 10px;
+	z-index: 99;
+}
+
+.instructions {
+	position: absolute;
+	width: 330px;
+	top: 10px;
+	left: 690px;
+	background-color: rgba(246, 242, 232, 0.8);
+	z-index: 1;
+	border-radius: 5px;
+	padding: 15px;
+	display: none;
+	opacity: 0;
+	font-family: monaco, Consolas, "Lucida Console", monospace;
+}
+
+#infoBtn:hover ~ .instructions {
+	display: block;
+	opacity: 1;
+}
+/* ----------------------------------------------------------- */
+
+.covered {
+	background-color: White !important;
+	content: url("playing-cards-assets-master/atlas-svg/card_back_flower.jpg") !important;
+	background-size: cover;
+}
+
+.card {
+	background-size: cover;
+	border-width: 0;
+}
