@@ -31,7 +31,7 @@ function server(req, res) {
      res.end(JSON.stringify(payload))
 }
 
-
+// articles => /articles
 // Login => /login -H "Content-Type: application/json" -d {"username":"wel1", "password":"foo"}
 
 // Logout => /logout -X PUT
