@@ -1,0 +1,715 @@
+[1111/160715:ERROR:process_reader_win.cc(233)] ReadMemory at 0x955000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/160715:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/160715:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/160719:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/160721:ERROR:process_reader_win.cc(233)] ReadMemory at 0x535000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/160721:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/160721:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/161002:ERROR:process_reader_win.cc(233)] ReadMemory at 0x10f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/161002:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/161002:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/172651:ERROR:process_reader_win.cc(233)] ReadMemory at 0x7a5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/172651:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/172651:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/172653:ERROR:process_reader_win.cc(233)] ReadMemory at 0xfe5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/172653:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/172653:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/172656:ERROR:process_reader_win.cc(233)] ReadMemory at 0x7a5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/172656:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/172656:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/173106:ERROR:process_reader_win.cc(233)] ReadMemory at 0x775000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/173106:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/173106:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/173701:ERROR:process_reader_win.cc(233)] ReadMemory at 0x4f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/173701:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/173701:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/173703:ERROR:process_reader_win.cc(233)] ReadMemory at 0xaf5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/173703:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/173703:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/173938:ERROR:process_reader_win.cc(233)] ReadMemory at 0x935000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/173938:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/173938:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/173940:ERROR:process_reader_win.cc(233)] ReadMemory at 0x985000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/173940:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/173940:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/175641:ERROR:process_reader_win.cc(233)] ReadMemory at 0xb75000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/175641:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/175641:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/180314:ERROR:process_reader_win.cc(233)] ReadMemory at 0x3a5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/180314:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/180314:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/180315:ERROR:process_reader_win.cc(233)] ReadMemory at 0x4f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/180315:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/180315:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/180355:ERROR:process_reader_win.cc(233)] ReadMemory at 0x8f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/180355:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/180355:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/181011:ERROR:process_reader_win.cc(233)] ReadMemory at 0x1135000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/181011:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/181011:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/181012:ERROR:process_reader_win.cc(233)] ReadMemory at 0x4f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/181012:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/181012:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/181014:ERROR:process_reader_win.cc(233)] ReadMemory at 0x8f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/181014:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/181014:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/185241:ERROR:process_reader_win.cc(233)] ReadMemory at 0x4f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/185241:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/185241:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/185243:ERROR:process_reader_win.cc(233)] ReadMemory at 0x12f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/185243:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/185243:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/185244:ERROR:process_reader_win.cc(233)] ReadMemory at 0x9f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/185244:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/185244:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/192603:ERROR:process_reader_win.cc(233)] ReadMemory at 0xff5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/192603:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/192603:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/192605:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/192605:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/192605:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/192607:ERROR:process_reader_win.cc(233)] ReadMemory at 0x735000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/192607:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/192607:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/192609:ERROR:process_reader_win.cc(233)] ReadMemory at 0x585000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/192609:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/192609:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/193347:ERROR:process_reader_win.cc(233)] ReadMemory at 0x4f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/193347:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/193347:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/193350:ERROR:process_reader_win.cc(233)] ReadMemory at 0x4f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/193350:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/193350:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/193500:ERROR:process_reader_win.cc(233)] ReadMemory at 0xaf5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/193500:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/193500:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/193515:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/193617:ERROR:process_reader_win.cc(233)] ReadMemory at 0x7a5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/193617:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/193617:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/194534:ERROR:process_reader_win.cc(233)] ReadMemory at 0xe85000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194534:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/194534:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/194540:ERROR:process_info.cc(330)] VirtualQueryEx: Access is denied. (0x5)
+[1111/194540:ERROR:process_info.cc(547)] ReadMemoryInfo failed
+[1111/194540:ERROR:process_info.cc(608)] range at 0x77f6ab40, size 0x24 fully unreadable
+[1111/194540:ERROR:process_info.cc(608)] range at 0x77e6bc84, size 0x12 fully unreadable
+[1111/194540:ERROR:process_info.cc(608)] range at 0x77e6bc84, size 0x12 fully unreadable
+[1111/194540:ERROR:process_info.cc(608)] range at 0x77e6bc84, size 0x12 fully unreadable
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x13f1d18 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x13d5960 of 784 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:ERROR:process_snapshot_win.cc(390)] ReadMemory RTL_USER_PROCESS_PARAMETERS
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76f10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77680000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNEL32.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71380000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\apphelp.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\msvcrt.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77de0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x748a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\SspiCli.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77760000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\RPCRT4.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76010000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\sechost.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77260000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ADVAPI32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x70f00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\52.0.2743.82\chrome_elf.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x747c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77da0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\cfgmgr32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77940000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x764b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\GDI32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x748c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\USER32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x774c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\IMM32.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77230000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x774f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\profapi.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x747a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74790000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73fc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x761d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\combase.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x772e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\shlwapi.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x771a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\shcore.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77c20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\powrprof.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76a10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\windows.storage.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74a60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\SHELL32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77a60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ole32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77330000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\OLEAUT32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\PSAPI.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WS2_32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\NETAPI32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x742e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\bcrypt.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71be0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WKSCLI.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\NETUTILS.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x70350000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from D:\Program Files (x86)\360Safe\safemon\safemon.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x52420000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from D:\Program Files (x86)\360Safe\safemon\iNetSafe.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73c90000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73930000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.672_none_ea83eaa5b9bc2149\COMCTL32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76390000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\FirewallAPI.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73560000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\fwbase.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73920000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\DAVHLPR.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75f10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\COMDLG32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x745d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77e40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\USP10.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75e60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\MSASN1.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77500000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPT32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74a10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WINTRUST.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74360000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6afa0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\52.0.2743.82\chrome_child.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71420000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\dwrite.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77f6ab80 of 5888 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0xca0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77e60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76f10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77680000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNEL32.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71380000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\apphelp.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\msvcrt.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77de0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x748a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\SspiCli.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77760000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\RPCRT4.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76010000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\sechost.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77260000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ADVAPI32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x70f00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\52.0.2743.82\chrome_elf.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x747c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77da0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\cfgmgr32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77940000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x764b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\GDI32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x748c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\USER32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x774c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\IMM32.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77230000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x774f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\profapi.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x747a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74790000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73fc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x761d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\combase.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x772e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\shlwapi.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x771a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\shcore.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77c20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\powrprof.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76a10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\windows.storage.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74a60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\SHELL32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77a60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ole32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77330000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\OLEAUT32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\PSAPI.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WS2_32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\NETAPI32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x742e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\bcrypt.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71be0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WKSCLI.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\NETUTILS.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x70350000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from D:\Program Files (x86)\360Safe\safemon\safemon.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x52420000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from D:\Program Files (x86)\360Safe\safemon\iNetSafe.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73c90000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73930000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.672_none_ea83eaa5b9bc2149\COMCTL32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76390000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\FirewallAPI.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73560000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\fwbase.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73920000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\DAVHLPR.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75f10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\COMDLG32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x745d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77e40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\USP10.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75e60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\MSASN1.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77500000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPT32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74a10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WINTRUST.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74360000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6afa0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\52.0.2743.82\chrome_child.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71420000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\dwrite.dll
+[1111/194540:ERROR:process_reader_win.cc(99)] process 15536 not found
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0xca0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77e60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76f10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77680000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNEL32.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71380000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\apphelp.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b50000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\msvcrt.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77de0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x748a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\SspiCli.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77760000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\RPCRT4.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76010000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\sechost.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77260000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ADVAPI32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x70f00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\52.0.2743.82\chrome_elf.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x747c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77da0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\cfgmgr32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77940000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x764b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\GDI32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x748c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\USER32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x774c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\IMM32.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77230000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x774f0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\profapi.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x747a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74790000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73fc0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x761d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\combase.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x772e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\shlwapi.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d00000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x771a0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\shcore.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77c20000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\powrprof.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76a10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\windows.storage.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74a60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\SHELL32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77a60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\ole32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77330000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\OLEAUT32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\PSAPI.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WS2_32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\NETAPI32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x742e0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\bcrypt.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71be0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WKSCLI.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\NETUTILS.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x70350000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from D:\Program Files (x86)\360Safe\safemon\safemon.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x52420000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from D:\Program Files (x86)\360Safe\safemon\iNetSafe.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73c90000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73930000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.672_none_ea83eaa5b9bc2149\COMCTL32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76390000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\FirewallAPI.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73560000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\fwbase.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x73920000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\DAVHLPR.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75f10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\COMDLG32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x745d0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77e40000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\USP10.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75e60000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\MSASN1.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77500000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPT32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74a10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\WINTRUST.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74360000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6afa0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\52.0.2743.82\chrome_child.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0x71420000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\dwrite.dll
+[1111/194540:ERROR:process_reader_win.cc(233)] ReadMemory at 0xd5fbb4 of 12 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194540:WARNING:process_snapshot_win.cc(104)] ReadMemory ExceptionInformation failed
+[1111/194540:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[1111/194540:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/194541:ERROR:process_reader_win.cc(233)] ReadMemory at 0xaf5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194541:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/194541:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/194542:ERROR:process_reader_win.cc(233)] ReadMemory at 0x1f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/194542:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/194542:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/195019:ERROR:process_reader_win.cc(233)] ReadMemory at 0x7c5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/195019:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/195019:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/195021:ERROR:process_reader_win.cc(233)] ReadMemory at 0x8f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/195021:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/195021:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/195508:ERROR:process_reader_win.cc(233)] ReadMemory at 0x9f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/195508:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/195508:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/195510:ERROR:process_reader_win.cc(233)] ReadMemory at 0x4f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/195510:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/195510:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/204436:ERROR:process_reader_win.cc(233)] ReadMemory at 0x7e5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/204436:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/204436:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/204437:ERROR:process_reader_win.cc(233)] ReadMemory at 0x10f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/204437:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/204437:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/204539:ERROR:process_reader_win.cc(233)] ReadMemory at 0xe85000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/204539:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/204539:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/205408:ERROR:process_reader_win.cc(233)] ReadMemory at 0x3d5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/205408:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/205408:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/205410:ERROR:process_reader_win.cc(233)] ReadMemory at 0x8f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/205410:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/205410:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/205505:ERROR:process_reader_win.cc(233)] ReadMemory at 0x12f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/205505:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/205505:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/205510:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/205626:ERROR:process_reader_win.cc(233)] ReadMemory at 0x10f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/205626:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/205626:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/205752:ERROR:process_reader_win.cc(233)] ReadMemory at 0x795000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/205752:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/205752:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/210710:ERROR:process_reader_win.cc(233)] ReadMemory at 0xc45000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/210710:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/210710:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/210726:ERROR:process_reader_win.cc(233)] ReadMemory at 0x7e5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/210726:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/210726:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/210842:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/210842:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/210842:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/210843:ERROR:process_reader_win.cc(233)] ReadMemory at 0xe85000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/210843:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/210843:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/210850:ERROR:process_reader_win.cc(233)] ReadMemory at 0xfa5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/210850:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/210850:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223349:ERROR:process_reader_win.cc(233)] ReadMemory at 0x8f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/223349:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/223349:ERROR:process_reader_win.cc(233)] ReadMemory at 0xaf5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/223349:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/223349:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223349:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223349:ERROR:process_reader_win.cc(233)] ReadMemory at 0xf66148 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/223349:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/223349:ERROR:process_reader_win.cc(233)] ReadMemory at 0xbd5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/223349:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/223349:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223349:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223350:ERROR:process_reader_win.cc(233)] ReadMemory at 0xbc5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/223350:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/223350:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223600:ERROR:process_reader_win.cc(233)] ReadMemory at 0xc25000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/223600:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/223600:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223602:ERROR:process_reader_win.cc(233)] ReadMemory at 0xb95000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/223602:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/223602:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223603:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/223603:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/223603:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223604:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/223604:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/223604:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223607:ERROR:process_reader_win.cc(114)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[1111/223607:ERROR:exception_snapshot_win.cc(88)] thread ID 7528 not found in process
+[1111/223607:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[1111/223655:ERROR:process_reader_win.cc(114)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[1111/223655:ERROR:exception_snapshot_win.cc(88)] thread ID 19132 not found in process
+[1111/223655:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[1111/223700:ERROR:process_reader_win.cc(233)] ReadMemory at 0x4f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/223700:ERROR:process_reader_win.cc(233)] ReadMemory at 0x1355000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/223700:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/223700:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/223700:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223700:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223700:ERROR:process_reader_win.cc(233)] ReadMemory at 0x1135000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/223700:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/223700:ERROR:process_reader_win.cc(233)] ReadMemory at 0x7d5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/223700:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/223700:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223700:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223750:ERROR:process_reader_win.cc(233)] ReadMemory at 0xfc5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/223750:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/223750:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223908:ERROR:process_reader_win.cc(233)] ReadMemory at 0xe85000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/223908:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/223908:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223908:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223908:ERROR:process_reader_win.cc(233)] ReadMemory at 0xeac208 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/223908:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/223908:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223908:ERROR:process_reader_win.cc(233)] ReadMemory at 0x1135000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/223908:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/223908:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223909:ERROR:process_reader_win.cc(233)] ReadMemory at 0x1d5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/223909:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/223909:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/223910:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/223910:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/223910:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224224:ERROR:process_reader_win.cc(114)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[1111/224224:ERROR:exception_snapshot_win.cc(88)] thread ID 11512 not found in process
+[1111/224224:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[1111/224232:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224232:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224232:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224232:ERROR:process_reader_win.cc(233)] ReadMemory at 0xaf5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224232:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224232:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224232:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224358:ERROR:process_reader_win.cc(233)] ReadMemory at 0xbe5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224358:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224358:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224358:ERROR:process_reader_win.cc(233)] ReadMemory at 0xb55000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224358:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224358:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224358:ERROR:process_reader_win.cc(233)] ReadMemory at 0xe85000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224358:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224358:ERROR:process_reader_win.cc(233)] ReadMemory at 0x4f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224358:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224358:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224358:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224358:ERROR:process_reader_win.cc(233)] ReadMemory at 0xe85000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224358:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224358:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224443:ERROR:process_reader_win.cc(233)] ReadMemory at 0x10f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224443:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224443:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224624:ERROR:process_reader_win.cc(233)] ReadMemory at 0x12f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224624:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224624:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224624:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224624:ERROR:process_reader_win.cc(233)] ReadMemory at 0x575000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224624:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224624:ERROR:process_reader_win.cc(233)] ReadMemory at 0x9a5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224624:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224624:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224624:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224626:ERROR:process_reader_win.cc(233)] ReadMemory at 0x5c5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224626:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224626:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224626:ERROR:process_reader_win.cc(233)] ReadMemory at 0x10a92b0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224626:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224626:ERROR:process_reader_win.cc(233)] ReadMemory at 0x1135000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224626:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224626:ERROR:process_reader_win.cc(233)] ReadMemory at 0xe85000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224626:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224626:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224626:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224626:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224824:ERROR:process_reader_win.cc(233)] ReadMemory at 0x735c90 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224824:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224824:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224824:ERROR:process_reader_win.cc(233)] ReadMemory at 0x555000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224824:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224824:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224824:ERROR:process_reader_win.cc(233)] ReadMemory at 0xb35000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224824:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224824:ERROR:process_reader_win.cc(233)] ReadMemory at 0xc55000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224824:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224824:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224824:ERROR:process_reader_win.cc(233)] ReadMemory at 0xe85000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224824:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224824:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224824:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224826:ERROR:process_reader_win.cc(233)] ReadMemory at 0xff5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224826:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224826:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224826:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224826:ERROR:process_reader_win.cc(233)] ReadMemory at 0xe85000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224826:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224826:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224826:ERROR:process_reader_win.cc(233)] ReadMemory at 0x149bbb8 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224826:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224826:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224826:ERROR:process_reader_win.cc(233)] ReadMemory at 0x10abbb8 of 72 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224826:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224826:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224834:ERROR:process_reader_win.cc(233)] ReadMemory at 0xc85000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224834:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224834:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224834:ERROR:process_reader_win.cc(233)] ReadMemory at 0xc45000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224834:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224834:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224834:ERROR:process_reader_win.cc(233)] ReadMemory at 0x535000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224834:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224834:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224909:ERROR:process_reader_win.cc(233)] ReadMemory at 0x12f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224909:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224909:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224910:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224912:ERROR:process_reader_win.cc(233)] ReadMemory at 0x9f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224912:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224912:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/224913:ERROR:process_reader_win.cc(233)] ReadMemory at 0xc85000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/224913:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/224913:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225520:ERROR:process_reader_win.cc(233)] ReadMemory at 0x12f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225520:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225520:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225521:ERROR:process_reader_win.cc(233)] ReadMemory at 0x12f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225521:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225521:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225522:ERROR:process_reader_win.cc(233)] ReadMemory at 0x8f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225522:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225522:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225523:ERROR:process_reader_win.cc(233)] ReadMemory at 0x975000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225523:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225523:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225524:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225524:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225524:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225525:ERROR:process_reader_win.cc(233)] ReadMemory at 0x1365000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225525:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225525:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225525:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225525:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225525:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225527:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225527:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225527:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225527:ERROR:process_reader_win.cc(233)] ReadMemory at 0x12f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225527:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225527:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225528:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225528:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225528:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225529:ERROR:process_reader_win.cc(233)] ReadMemory at 0x1135000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225529:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225529:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225529:ERROR:process_reader_win.cc(233)] ReadMemory at 0x8f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225529:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225529:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225530:ERROR:process_reader_win.cc(233)] ReadMemory at 0x10f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225530:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225530:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225531:ERROR:process_reader_win.cc(233)] ReadMemory at 0x1135000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225531:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225531:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225712:ERROR:process_reader_win.cc(233)] ReadMemory at 0xaf5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225712:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225712:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225713:ERROR:process_reader_win.cc(233)] ReadMemory at 0xb55000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225713:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225713:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225714:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225714:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225714:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225715:ERROR:process_reader_win.cc(233)] ReadMemory at 0x9d5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225715:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225715:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225900:ERROR:process_reader_win.cc(233)] ReadMemory at 0x1d5000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225900:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225900:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/225903:ERROR:process_reader_win.cc(233)] ReadMemory at 0x535000 of 45056 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1111/225903:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1111/225903:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1111/230023:ERROR:process_reader_win.cc(114)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[1111/230023:ERROR:exception_snapshot_win.cc(88)] thread ID 16968 not found in process
+[1111/230023:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
